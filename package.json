@@ -1,0 +1,28 @@
+{
+  "name": "node-edx",
+  "version": "1.0.1",
+  "description": "nodejs tutorial from edx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k1r4n/node-edx.git"
+  },
+  "keywords": [
+    "nodejs",
+    "edx",
+    "mongodb",
+    "express"
+  ],
+  "author": "Kiran Rajaram, <kiranrajaram@live.com, kiranrajaram@outlook.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k1r4n/node-edx/issues"
+  },
+  "homepage": "https://github.com/k1r4n/node-edx#readme",
+  "dependencies": {
+    "express": "4.16.2"
+  }
+}
